@@ -1,0 +1,10 @@
+{
+  "workspace": "E:/私域运营",
+  "cli": "E:/私域运营/wechat-cli-installed/wechat-cli.exe",
+  "python": "C:/Users/Administrator/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe",
+  "key_helper": "E:/私域运营/wechat-key-helper/check.py",
+  "image_helper": "E:/私域运营/wechat-key-helper/image_check.py",
+  "db_root": "D:/Backup/xwechat_files/wxid_enov552uzxrr22_58f3",
+  "wechat_exe": "D:/Program Files/Tencent/Weixin/Weixin.exe",
+  "card_template": "C:/Users/Administrator/.codex/visualizations/2026/11/06/01a1af48-3fb7-77c3-afe7-908f9b545650/island-daily-cards.html"
+}

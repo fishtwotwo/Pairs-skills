@@ -1,0 +1,6 @@
+interface:
+  display_name: "微信聊天记录读取"
+  short_description: "读取本机微信群聊并按时间完整总结，支持状态诊断、按需修复及知识卡片"
+  default_prompt: "使用 $wechat-reader 总结新岛会员群今天的消息，并说明读取完整性。"
+policy:
+  allow_implicit_invocation: true
